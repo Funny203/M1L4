@@ -22,3 +22,27 @@ out/
 
 # Игнорируем папку node_modules (если это JS-проект)
 node_modules/
+# Игнорируем системные файлы Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Игнорируем файлы кэша IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Игнорируем лог-файлы
+*.log
+
+# Игнорируем папку сборки (если ты собираешь проект)
+build/
+dist/
+out/
+
+# Игнорирует ВСЕ файлы .txt в ЛЮБОЙ папке проекта
+*.txt
+
+# Игнорируем папку node_modules (если это JS-проект)
+node_modules/
