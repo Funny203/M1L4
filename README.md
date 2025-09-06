@@ -11,4 +11,4 @@ Made your <ins>monsters</ins> and <ins>battle friends</ins>!
 
 Begin your adventure today with command /start !
 
-![Скриншот приложения](./assets/screenshot.png)
+![Screenshot of work](./assets/screenshot.png)
