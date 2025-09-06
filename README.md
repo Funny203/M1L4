@@ -1,6 +1,7 @@
 # Lets start!
 **PokeBot** Full project here -> [PokeBot](https://github.com/Funny203/M1L4)
 
+## Description
 Made your <ins>monsters</ins> and <ins>battle friends</ins>!
 
 ***Embark on your very own Pokémon journey right here in Telegram!***
@@ -10,3 +11,4 @@ Made your <ins>monsters</ins> and <ins>battle friends</ins>!
 
 Begin your adventure today with command /start !
 
+<img src="./assets/screenshot.png" alt="Скриншот работы" width="600"/>
