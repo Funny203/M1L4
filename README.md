@@ -1,2 +1,11 @@
-The Pokemon TG Bot
-The complete Pokemon experience on Telegram. Start your journey, choose your starter, and explore a world of creatures to catch and train.
+**PokeBot** Full project here -> [PokeBot](https://github.com/Funny203/M1L4)
+
+Made your <ins>monsters</ins> and <ins>battle friends</ins>!
+
+Embark on your very own Pokémon journey right here in Telegram!
+
+🌿 **Hunt your first pokemon**: Use /go to explore tall grass and find wild Pokémon!
+⚔️ **Battle Trainers**: Challenge other players and find out whose Pokemon is stronger!
+
+Begin your adventure today with command /start !
+
