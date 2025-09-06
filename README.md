@@ -11,4 +11,4 @@ Made your <ins>monsters</ins> and <ins>battle friends</ins>!
 
 Begin your adventure today with command /start !
 
-<img src="./assets/screenshot.png" alt="Скриншот работы" width="600"/>
+<img src="C:\Users\Naga\Downloads\Telegram Desktop" alt="Скриншот работы" width="600"/>
