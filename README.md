@@ -11,4 +11,4 @@ Made your <ins>monsters</ins> and <ins>battle friends</ins>!
 
 Begin your adventure today with command /start !
 
-![Скриншот приложения](C:\Users\Naga\Downloads\Новая папка)
+![Скриншот приложения](./assets/screenshot.png)
