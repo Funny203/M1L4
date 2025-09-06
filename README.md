@@ -11,4 +11,4 @@ Made your <ins>monsters</ins> and <ins>battle friends</ins>!
 
 Begin your adventure today with command /start !
 
-<img src="C:\Users\Naga\Downloads\Telegram Desktop" alt="Скриншот работы" width="600"/>
+![Скриншот приложения](C:\Users\Naga\Downloads\Новая папка)
